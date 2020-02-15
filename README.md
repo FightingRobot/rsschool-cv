@@ -1,1 +1,1 @@
-https://FightingRobot.github.io/rsschool/cv
+https://FightingRobot.github.io/rsschool-cv/cv
